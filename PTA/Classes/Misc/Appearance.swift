@@ -11,7 +11,7 @@ struct Appearance {
     static let backgroundColor = UIColor(integralRed: 251, green: 247, blue: 255)
     
     static let mainColor = UIColor(integralRed: 91, green: 74, blue: 164)
-    static let mainColorAlpha = UIColor(integralRed: 91, green: 74, blue: 161, alpha: 0.3)
+    static let mainColorAlpha = UIColor(integralRed: 91, green: 74, blue: 164, alpha: 0.3)
     
     static let takeFreeTestColor = UIColor(integralRed: 255, green: 189, blue: 148)
     

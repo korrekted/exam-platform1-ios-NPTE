@@ -6,7 +6,7 @@
 	<string>development</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.pta.widgets</string>
+		<string>group.npteptpta.widget</string>
 	</array>
 </dict>
 </plist>
